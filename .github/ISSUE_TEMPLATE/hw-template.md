@@ -10,4 +10,5 @@ assignees: ''
 請簡單描述你的問題或你目前的進度
 
 ## 補充說明（可選）
-例如貼上錯誤訊息、GitHub Repo 連結等
+例如貼上錯誤訊息、GitHub Repo URL等
+
